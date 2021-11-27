@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | How to improve education process | Grades of students from two classes/schools to compare | csv/excel | Which teaching method is more effective |
+| Vaccination | How to be sure that Covid-19 vaccination is effective, how to improve its effectiveness | Test data, patient data, survey | database | How well the vaccination is preventing Covid-19, how long it is effective |
+| Productivity | How to improve my productivity | Ticket rates, amount of time on phone team | csv/excel | How productive I have been on certain day/week |
 
 ## Rubric
 
